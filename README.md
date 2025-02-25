@@ -3,7 +3,7 @@
 <!--
 **sandrarors/sandrarors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Soy Junior Project Manager con 7 años de experiencia en agencias de marketing digital y una formación en análisis de datos, lo que me permite combinar la gestión estratégica de proyectos con un enfoque basado en la interpretación y optimización de información.
+Soy Junior Project Manager con 8 años de experiencia en agencias de marketing digital y una formación en análisis de datos, lo que me permite combinar la gestión estratégica de proyectos con un enfoque basado en la interpretación y optimización de información.
 
 ### 📚 Estudios
 
