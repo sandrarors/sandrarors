@@ -1,4 +1,4 @@
-![Sandra_Romero_DA](https://github.com/sandrarors/sandrarors/blob/main/Sandra-Romero_DA.png)
+![Sandra_Romero_DA](https://github.com/sandrarors/sandrarors/blob/main/Sandra_Romero_DA.png)
  
 
 ##  👋 Hola, soy Sandra Romero
