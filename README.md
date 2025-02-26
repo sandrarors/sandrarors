@@ -1,7 +1,7 @@
- ##  👋 Hola, soy Sandra Romero
+![Sandra_Romero_DA](https://github.com/sandrarors/sandrarors/blob/main/Sandra-Romero_DA.png)
+ 
 
-<!--
-**sandrarors/sandrarors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+##  👋 Hola, soy Sandra Romero
 
 Soy Junior Project Manager con 8 años de experiencia en agencias de marketing digital y una formación en análisis de datos, lo que me permite combinar la gestión estratégica de proyectos con un enfoque basado en la interpretación y optimización de información.
 
@@ -27,3 +27,12 @@ Cuento con una Licenciatura en Administración de Empresas y actualmente, curso 
 [![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=fff)](#)
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-FFFF00.svg?style=for-the-badge&logo=mailchimp&logoColor=fff)](#)
 
+
+¡No dudes en contactarme! Estoy abierta a conectar para discutir oportunidades de colaboración, compartir ideas sobre gestión de proyectos, análisis de datos y optimización de procesos. 
+
+
+
+
+
+<!--
+**sandrarors/sandrarors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
