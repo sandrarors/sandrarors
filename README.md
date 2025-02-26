@@ -22,10 +22,12 @@ Cuento con una Licenciatura en Administración de Empresas y actualmente, curso 
 ![Seaborn](https://img.shields.io/badge/Seaborn-9933CC.svg?style=for-the-badge&logo=Seaborn&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Tableu](https://img.shields.io/badge/Tableu-D70A53.svg?style=for-the-badge&logo=Tableu&logoColor=white)&nbsp;
+
 ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 [![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=for-the-badge&logo=asana&logoColor=fff)](#)
 [![Mailchimp](https://img.shields.io/badge/Mailchimp-FFFF00.svg?style=for-the-badge&logo=mailchimp&logoColor=fff)](#)
+
 
 
 ¡No dudes en contactarme! Estoy abierta a conectar para discutir oportunidades de colaboración, compartir ideas sobre gestión de proyectos, análisis de datos y optimización de procesos. 
