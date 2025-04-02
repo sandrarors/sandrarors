@@ -1,9 +1,9 @@
-![Sandra_Romero_DA](https://github.com/sandrarors/sandrarors/blob/main/Sandra_Romero_DA.png)
+![Sandra_Romero_DA](https://github.com/sandrarors/sandrarors/blob/main/DA_SandraRomero.png)
  
 
 ##  👋 Hola, soy Sandra Romero
 
-Soy Junior Project Manager con 8 años de experiencia en agencias de marketing digital y una formación en análisis de datos, lo que me permite combinar la gestión estratégica de proyectos con un enfoque basado en la interpretación y optimización de información.
+Soy Analista de Datos con experiencia en Marketing y Gestión de Proyectos. Especializada en la interpretación y visualización de datos para la toma de decisiones estratégicas. Más de 7 años de experiencia liderando equipos y desarrollando enfoques analíticos en sectores como la construcción, la hospitalidad y el calzado. Habilidad para transformar datos en insights accionables, optimizar procesos y mejorar la eficiencia operativa. Experiencia en análisis de tendencias de mercado, automatización de reportes y generación de dashboards interactivos.
 
 ### 📚 Estudios
 
